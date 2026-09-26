@@ -1,5 +1,3 @@
-// Name - Manuj Kumar Grover
-// Roll no - 2301CS28
 
 #include<bits/stdc++.h>
 using namespace std;
